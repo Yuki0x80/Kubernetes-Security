@@ -1,22 +1,5 @@
 # Kubernetes-Security 3章
 
-- Why did you started to English teacher?
-- What is you hobby?
-  - My hobby is play PC game. For example I like CoD. It is shotting game.
-  - And I love cook! My best of dish is NIKUJAGA.
-  - Inside are potatoes and meat and soy sauce.
-  - If you get a chance, you should try it. You can eat it in Restaurant.
-- What kind of drama or movie do you like?
-  - I like suits that american drama.
-    - It is lawyer story. Already done up to 8 seasons.
-
-
-
-- I have none yet
-- I dont have any questions
-
-
-
 ## Threat Modeling
 
 この章では、
